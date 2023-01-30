@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PNJorgy
 - 👀 I’m interested in: Python and all sort of programming language.
 - 🌱 I’m currently learning: python (OOP), C# and javascript
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/j%C3%B8rgen-emberland-2b27331b4/
