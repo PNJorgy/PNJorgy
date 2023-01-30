@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PNJorgy
 - 👀 I’m interested in: Python and all sort of programming language.
-- 🌱 I’m currently learning: python (OOP), c# and javascript
+- 🌱 I’m currently learning: python (OOP), C# and javascript
 - 📫 How to reach me: 
